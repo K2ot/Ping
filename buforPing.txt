@@ -1,0 +1,8 @@
+
+Pinging 212.77.100.101 with 32 bytes of data:
+Reply from 212.77.100.101: bytes=32 time=14ms TTL=55
+
+Ping statistics for 212.77.100.101:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 14ms, Average = 14ms
